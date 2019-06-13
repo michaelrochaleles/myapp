@@ -1,0 +1,4 @@
+#Sun Jun 09 14:55:44 BRT 2019
+base.0=/home/work/Documentos/codeFlutter/myapp/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
